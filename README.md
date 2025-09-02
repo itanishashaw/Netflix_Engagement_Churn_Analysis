@@ -11,7 +11,7 @@ The project follows a structured data analytics pipeline: Data Preparation → S
 
 # 🛠️ Tools Used
 
-### SPSS (Statistical Package for Social Sciences)
+### IBM SPSS Statistics (Statistical Package for Social Sciences)
 - Logistic Regression for **churn prediction**  
 - ANOVA & Descriptive Stats for engagement insights  
 - Crosstabs for categorical analysis  
