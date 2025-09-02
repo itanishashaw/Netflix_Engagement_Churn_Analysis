@@ -79,6 +79,9 @@ H₁: At least one variable (e.g., watch time, satisfaction, subscription plan) 
 # 📊 Dashboard Preview
 <img width="901" height="504" alt="image" src="https://github.com/user-attachments/assets/d8908912-d38d-4de7-b425-63f9bc1ff830" />
 
+# Hypothesis Testing Results
+The statistical tests conducted in SPSS provided strong evidence supporting several of the formulated hypotheses. Logistic regression revealed that daily watch time and customer satisfaction were significant predictors of churn (p < 0.05), confirming that lower engagement and dissatisfaction increase churn probability. ANOVA and chi-square tests further indicated that subscription plan and payment history are significantly associated with churn behavior, with monthly subscribers and irregular payers showing higher churn rates. Overall, the predictive model achieved 85% classification accuracy, validating the rejection of the null hypothesis and confirming that multiple engagement and demographic factors jointly explain customer churn in Netflix.
+
 # 📈 Key Insights
 1) Customers with Basic plans and delayed payments showed higher churn probability.
 2) Lower satisfaction scores (<5) strongly correlated with churn.
