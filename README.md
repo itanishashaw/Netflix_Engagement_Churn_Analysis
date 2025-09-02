@@ -60,7 +60,7 @@ H₁: At least one variable (e.g., watch time, satisfaction, subscription plan) 
 
 ### Step 3. Bivariate Analysis  
 - **Crosstabs**: Churn vs Subscription Plan, Device Used  
-- **ANOVA / t-test**: Watch time & Satisfaction vs Churn  
+- **ANOVA**: Watch time & Satisfaction vs Churn  
 
 ### Step 4. Predictive Modeling  
 - **Performed Binary Logistic Regression**  
