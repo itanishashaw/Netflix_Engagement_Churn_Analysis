@@ -24,6 +24,29 @@ The project follows a structured data analytics pipeline: Data Preparation → S
 # 📂 Dataset Description 
 3,500 customer records containing features such as Age, Daily Watch Time, Customer Satisfaction Score, Subscription Plan, Payment History, and Churn Status.
 
+# Hypotheses
+To better understand the drivers of churn, several hypotheses were formulated and tested using SPSS statistical techniques:
+
+### Engagement and Churn:
+H₀: Daily watch time has no significant effect on churn.
+H₁: Customers with lower daily watch time are more likely to churn.
+
+### Customer Satisfaction and Churn:
+H₀: Satisfaction scores do not influence churn.
+H₁: Lower satisfaction scores significantly increase the likelihood of churn.
+
+### Subscription Plan and Churn:
+H₀: Churn rates are the same across all subscription plans.
+H₁: Churn rates differ across subscription plans (e.g., monthly vs. yearly).
+
+### Payment History and Churn:
+H₀: Payment history has no impact on churn.
+H₁: Customers with irregular or late payments are more likely to churn.
+
+### Overall Predictive Model:
+H₀: None of the selected variables significantly explain churn.
+H₁: At least one variable (e.g., watch time, satisfaction, subscription plan) significantly explains churn.
+
 # 🔎 Methodology
 ### Step 1. Data Preparation  
 - Imported dataset into SPSS  
